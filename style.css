@@ -5,8 +5,15 @@
 }
 
 body{
-    background-color: ;
+    background-color: whitesmoke;
     display: flex;
+    align-items: center;
     justify-content: space-evenly;
-    
+    flex-direction: column;
+    height: 90vh;
+}
+
+#testris{
+    background-color: white;
+    box-shadow: 0 0 14px 0 lightgray;
 }
